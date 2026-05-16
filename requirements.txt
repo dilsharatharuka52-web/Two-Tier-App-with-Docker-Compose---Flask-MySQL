@@ -1,0 +1,6 @@
+Flask==3.0.2
+mysql-connector-python==8.0.31
+# Add any additional dependencies your project requires below
+# For example:
+# requests==2.31.0
+# Note: Make sure to specify the correct versions of the dependencies to ensure compatibility with your project.
