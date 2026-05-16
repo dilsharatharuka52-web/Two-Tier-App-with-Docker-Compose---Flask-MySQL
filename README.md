@@ -56,7 +56,7 @@ Your **first multi-container app** — connect a Python Flask web application to
 
 ---
 
-## 🧠 What You Learn
+## 🧠 What I Learn
 
 | Concept | Description |
 |---|---|
@@ -306,7 +306,7 @@ You can now run a multi-container app. Move to **[Project 3 — CI/CD Pipeline w
 | # | Project | Level |
 |---|---------|-------|
 | **1** | Static Website with Docker | Beginner |
-| **2** | **Two-Tier App with Docker Compose** ← *You are here* | Beginner |
+| **2** | **Two-Tier App with Docker Compose | Beginner |
 | 3 | CI/CD Pipeline with Jenkins | Beginner |
 | 4 | Kubernetes on Local Cluster (Minikube) | Intermediate |
 | 5 | Monitoring Stack: Prometheus + Grafana | Intermediate |
